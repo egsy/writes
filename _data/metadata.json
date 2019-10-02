@@ -1,16 +1,16 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "egsy writes",
+  "url": "https://optimistic-euler-bcb6ed.netlify.com/",
+  "description": "attempts at documenting my thoughts in writing",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "attempts at documenting my thoughts in writing",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://optimistic-euler-bcb6ed.netlify.com/feed/feed.xml",
+    "id": "https://optimistic-euler-bcb6ed.netlify.com/"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "egsy",
     "email": "youremailaddress@example.com"
   }
 }
